@@ -78,7 +78,7 @@
   - [Error 返信](./replies/error-replies.md)
   - [Command 応答](./replies/command-responses.md)
   - [予約済み数値](./replies/reserved-numerics.md)
-- [クライアントとサーバーの認証](./client-and-server-authentication/index.md)
+- [クライアントとサーバの認証](./client-and-server-authentication/index.md)
 - [Current implementations](./current-implementations/index.md)
   - [Network protocol: TCP - why it is best used here.](./current-implementations/network-protocol--tcp---why-it-is-best-used-here.md)
     - [Support of Unix sockets](./current-implementations/support-of-unix-sockets.md)
