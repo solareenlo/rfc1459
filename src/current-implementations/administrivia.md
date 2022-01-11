@@ -1,1 +1,3 @@
-# Administrivia
+# 8.12.4 アドミニストリビア
+
+ADMIN コマンド（[4.3.7 Admin コマンド](../message-details/admin-command.md) の章参照）に対して正確で有効な返答をするために，サーバは設定から関連する詳細を見つけ出す必要があります．
