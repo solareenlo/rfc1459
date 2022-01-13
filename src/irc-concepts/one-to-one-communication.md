@@ -9,7 +9,9 @@
           B----C
          /      \
         3        E
+
  Servers: A, B, C, D, E Clients: 1, 2, 3, 4
+
  [ Fig. 2. Sample small IRC network ]
 ```
 

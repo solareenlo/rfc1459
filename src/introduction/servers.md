@@ -21,5 +21,6 @@
                                 :
                              [ etc. ]
                                 :
+
                [ Fig. 1. Format of IRC server network ]
 ```
